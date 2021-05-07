@@ -12,3 +12,4 @@ jobs:
       uses: ./
       with:
         args: "chrome"
+        skip-install: true
